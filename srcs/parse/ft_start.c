@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   ft_start.c                                         :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: bfiguet <bfiguet@student.42.fr>            +#+  +:+       +#+        */
+/*   By: smontgen <smontgen@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/09/25 18:22:55 by bfiguet           #+#    #+#             */
 /*   Updated: 2023/10/31 14:04:28 by bfiguet          ###   ########.fr       */

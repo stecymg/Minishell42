@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   if_doll.c                                          :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: bfiguet <bfiguet@student.42.fr>            +#+  +:+       +#+        */
+/*   By: smontgen <smontgen@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/01/20 14:29:12 by bfiguet           #+#    #+#             */
 /*   Updated: 2023/10/31 15:36:16 by bfiguet          ###   ########.fr       */

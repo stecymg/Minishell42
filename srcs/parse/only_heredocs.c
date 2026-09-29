@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   only_heredocs.c                                    :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: bfiguet <bfiguet@student.42.fr>            +#+  +:+       +#+        */
+/*   By: smontgen <smontgen@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/01/25 13:55:49 by bfiguet           #+#    #+#             */
 /*   Updated: 2023/10/31 16:17:46 by bfiguet          ###   ########.fr       */

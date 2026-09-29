@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   unset.c                                            :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: bfiguet <bfiguet@student.42.fr>            +#+  +:+       +#+        */
+/*   By: smontgen <smontgen@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/01/20 14:29:01 by bfiguet           #+#    #+#             */
 /*   Updated: 2023/10/30 07:30:55 by bfiguet          ###   ########.fr       */
